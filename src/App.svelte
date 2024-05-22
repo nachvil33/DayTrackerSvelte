@@ -4,17 +4,17 @@
   const categories = [
     {
       name: 'Health',
-      icon: '/assets/health.jpg',
+      icon: './public/assets/health.jpg',
       subcategories: ['Exercise', 'Sleep']
     },
     {
       name: 'Work',
-      icon: '/assets/work.jpg',
+      icon: './public/assets/work.jpg',
       subcategories: ['At Home', 'At the Office']
     },
     {
       name: 'Leisure',
-      icon: '/assets/leisure.jpg',
+      icon: './public/assets/leisure.jpg',
       subcategories: ['Socializing', 'Entertainment']
     }
   ];
